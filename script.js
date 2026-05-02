@@ -19,3 +19,8 @@ if (age >= 18) {
 } else {
     console.log("You are a minor");
 }
+if (age >= 20) {
+    console.log("You are an adult");
+} else {
+    console.log("You are a minor");
+}
